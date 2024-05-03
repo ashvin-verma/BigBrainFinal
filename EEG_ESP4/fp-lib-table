@@ -1,0 +1,12 @@
+(fp_lib_table
+  (lib (name "SOT95P280X145-6N")(type "KiCad")(uri "/Users/ashvinverma/Downloads/SOT95P280X145-6N")(options "")(descr ""))
+  (lib (name "TCR2LN33")(type "KiCad")(uri "/Users/ashvinverma/Downloads/TCR2LN33")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "/Users/ashvinverma/Downloads/ul_TCR2LN33/KiCAD/2022-11-05_01-08-48/footprints.pretty")(options "")(descr ""))
+  (lib (name "footprints-switch")(type "KiCad")(uri "/Users/ashvinverma/Downloads/ul_ESB-33535A/KiCAD/2022-11-07_01-38-18/footprints.pretty")(options "")(descr ""))
+  (lib (name "ap2127")(type "KiCad")(uri "/Users/ashvinverma/Downloads/ap2127")(options "")(descr ""))
+  (lib (name "AD620")(type "KiCad")(uri "/Users/ashvinverma/Downloads/AD620")(options "")(descr ""))
+  (lib (name "61300311121")(type "KiCad")(uri "/Users/ashvinverma/Downloads/61300311121")(options "")(descr ""))
+  (lib (name "CA3130")(type "KiCad")(uri "/Users/ashvinverma/Downloads/CA3130")(options "")(descr ""))
+  (lib (name "ul_CA3130MZ")(type "KiCad")(uri "/Users/ashvinverma/Downloads/ul_CA3130MZ")(options "")(descr ""))
+  (lib (name "AD8221ARZ")(type "KiCad")(uri "/Users/ashvinverma/Downloads/AD8221ARZ")(options "")(descr ""))
+)

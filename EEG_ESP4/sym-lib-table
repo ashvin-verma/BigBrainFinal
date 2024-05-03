@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "TCR2LN33")(type "Legacy")(uri "/Users/ashvinverma/Downloads/TCR2LN33/TCR2LN33.lib")(options "")(descr ""))
+  (lib (name "USB-A1VSB6")(type "Legacy")(uri "/Users/ashvinverma/Downloads/USB-A1VSB6 2/USB-A1VSB6.lib")(options "")(descr ""))
+  (lib (name "61300311121")(type "Legacy")(uri "/Users/ashvinverma/Downloads/61300311121/61300311121.lib")(options "")(descr ""))
+  (lib (name "AD8221ARZ")(type "Legacy")(uri "/Users/ashvinverma/Downloads/AD8221ARZ/AD8221ARZ.lib")(options "")(descr ""))
+)
